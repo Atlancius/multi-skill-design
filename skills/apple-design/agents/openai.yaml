@@ -1,0 +1,7 @@
+interface:
+  display_name: "Apple Design"
+  short_description: "Apple interface and fluid-motion principles for the web"
+  default_prompt: "Use $apple-design to build or review this interaction with Apple principles."
+
+policy:
+  allow_implicit_invocation: false

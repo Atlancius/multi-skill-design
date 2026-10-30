@@ -1,0 +1,7 @@
+interface:
+  display_name: "UI/UX Pro Max"
+  short_description: "Design system from a UI/UX database: style, palette, fonts"
+  default_prompt: "Use $ui-ux-pro-max to generate and persist a design system for this project, then implement and validate the UI against it."
+
+policy:
+  allow_implicit_invocation: false

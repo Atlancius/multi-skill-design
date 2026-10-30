@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pick UI Library"
+  short_description: "One vetted React library per frontend task"
+  default_prompt: "Use $pick-ui-library to choose the library for this frontend task."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frontend design"
+  short_description: "Distinctive visual direction for new or restyled web UI"
+  default_prompt: "Use $frontend-design to plan a distinctive design for this UI, review the plan against the brief, then build it."
+
+policy:
+  allow_implicit_invocation: false

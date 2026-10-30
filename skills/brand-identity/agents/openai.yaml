@@ -1,0 +1,6 @@
+interface:
+  display_name: "Meta Branding Creator"
+  short_description: "Brand identity system and tokens derived from a logo"
+  default_prompt: "Use $brand-identity to derive a brand identity system from this logo."
+policy:
+  allow_implicit_invocation: false

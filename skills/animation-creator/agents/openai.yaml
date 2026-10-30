@@ -1,0 +1,7 @@
+interface:
+  display_name: "Meta animation creator"
+  short_description: "Web animation from a plain-language request"
+  default_prompt: "Use $animation-creator to fade the page sections in as I scroll."
+
+policy:
+  allow_implicit_invocation: false

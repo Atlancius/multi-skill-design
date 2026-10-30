@@ -1,0 +1,3 @@
+design-handoff
+
+Derived from the design plugin of anthropics/knowledge-work-plugins (Apache-2.0, see LICENSE.txt). Modified: connector placeholders removed, Claude Code / Codex path equivalences, validation and to-confirm sections added.

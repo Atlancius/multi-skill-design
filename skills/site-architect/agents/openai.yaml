@@ -1,0 +1,6 @@
+interface:
+  display_name: "Site Architect"
+  short_description: "Sitemap, tokens and component blueprint from a brand"
+  default_prompt: "Use $site-architect to turn these brand guidelines into a site architecture."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mobile Native"
+  short_description: "Make a web app feel native on a phone"
+  default_prompt: "Use $mobile-native to remove the mobile-web tells from this app."
+
+policy:
+  allow_implicit_invocation: false
